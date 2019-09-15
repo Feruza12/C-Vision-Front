@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186.97" height="19.771" viewBox="0 0 186.97 19.771">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 0)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+      <path id="Path_35" data-name="Path 35" d="M16.994,3.531H4.6v12.51H16.994V11.8l4.6.953v2.336q0,2.71-1.019,3.691t-3.856.981H4.9c-1.917,0-3.217-.325-3.889-.981S0,16.9,0,15.088V4.671Q0,1.989,1.008.992C1.68.331,2.98,0,4.9,0H16.7q2.859,0,3.856.992t1.041,3.68V6.544l-4.6.727Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_36" data-name="Path 36" d="M50.57,17.724V13.78h8.919v3.944Z" transform="translate(-22.713 -6.189)" fill="#fff"/>
+      <path id="Path_37" data-name="Path 37" d="M82.149,19.76,70.73,0h5.25l8,14.284L91.608,0h4.611L85.328,19.76Z" transform="translate(-31.767 0)" fill="#fff"/>
+      <path id="Path_38" data-name="Path 38" d="M126.69,19.76V0l4.578.727V19.76Z" transform="translate(-56.901 0)" fill="#fff"/>
+      <path id="Path_39" data-name="Path 39" d="M169.97,3.459H157.052V7.712H169.37q2.9,0,3.917.992t1.019,3.685V15.1c0,1.8-.342,3.019-1.019,3.68s-1.983.992-3.917.992H157.146q-2.9,0-3.917-.992c-.678-.661-1.019-1.884-1.019-3.68v-.551l4.06-.837v2.336h13.964V11.535H157.911q-2.876,0-3.889-.992t-1.008-3.68V4.66q0-2.683,1.008-3.68T157.911,0h11.216c1.862,0,3.14.32,3.856.953a4.372,4.372,0,0,1,1.058,3.382v.413l-4.06.953Z" transform="translate(-68.363 0)" fill="#fff"/>
+      <path id="Path_40" data-name="Path 40" d="M209.6,19.76V.727L214.227,0V19.76Z" transform="translate(-94.138 0)" fill="#fff"/>
+      <path id="Path_41" data-name="Path 41" d="M235.53,4.671q0-2.683,1.008-3.68C237.21.331,238.51,0,240.427,0H254.97q2.887,0,3.889.992t1.008,3.68V15.088q0,2.71-1.008,3.691t-3.889.981H240.427c-1.917,0-3.217-.325-3.889-.981s-1.008-1.884-1.008-3.691Zm4.6,11.37h15.16V3.531H240.13Z" transform="translate(-105.784 0)" fill="#fff"/>
+      <path id="Path_42" data-name="Path 42" d="M316.521,0V13.788L300.37,0h-3.14V19.76h3.944V5.938L317.326,19.76h3.14V0Z" transform="translate(-133.496 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
