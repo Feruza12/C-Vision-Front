@@ -41,24 +41,17 @@ b, strong
 	font-weight: bold
 
 .bg
-  background: url("../img/bg-main.png")
+  background-image: url("../img/bg-main.png") ,linear-gradient(#040404, #000) 
   width: 100%
   height: 100vh
   position: relative
   background-repeat: no-repeat
-  background-size: cover
-  .layer
-    background-color: rgba(0, 0, 0, 0.7)
-    position: absolute
-    top: 0
-    left: 0
-    width: 100%
-    height: 100%
-    .navbar
-      margin-top: 20px
-      .nav-link
-        font-size: 15px
-        color: #fff
+  background-size:  100% 150% 
+  .navbar
+    margin-top: 20px
+    .nav-link
+      font-size: 15px
+      color: #fff
 
 #sidebar 
   width: 250px
@@ -115,5 +108,7 @@ b, strong
   background: #000
   height: 100%
   width: 100%
+  .about
+
 
 @import "media" // Always at the end
