@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296.553" height="317.493" viewBox="0 0 296.553 317.493">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.373" y1="0.516" x2="0.866" y2="-0.519" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#343434" stop-opacity="0.459"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.627" y1="0.516" x2="0.134" y2="-0.519" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1.156" y1="0.223" x2="0.5" y2="1.211" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.668" y1="0.667" x2="-0.134" y2="0.078" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="Group_21" data-name="Group 21" transform="translate(-118.576 -2175.697)">
+    <path id="Path_65" data-name="Path 65" d="M512.8,1521.055l-160.863-58.422v124.075l160.834,76.143Z" transform="translate(-229.938 830.339)" fill="url(#linear-gradient)"/>
+    <path id="Path_66" data-name="Path 66" d="M419.4,1504.868,549.222,1432.4v150.618l-129.531,63.643Z" transform="translate(-136.529 846.533)" fill="url(#linear-gradient-2)"/>
+    <g id="Group_9" data-name="Group 9" transform="translate(-0.372 -95)">
+      <g id="Group_8" data-name="Group 8" transform="translate(10 -2)">
+        <g id="Group_4" data-name="Group 4" transform="translate(276.958 2530.135) rotate(-141)">
+          <line id="Line_1" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(0 52.993)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-2" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(25.591 44.161)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-3" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(51.183 35.329)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-4" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(76.774 26.497)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-5" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(102.366 17.664)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-6" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(127.957 8.832)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-7" data-name="Line 1" y1="147.658" x2="59.723" transform="translate(153.548 0)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(405.076 2382.068) rotate(129)">
+          <line id="Line_1-8" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-9" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(21.837 8.832)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-10" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(43.673 17.664)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-11" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(65.51 26.497)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-12" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(87.347 35.329)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-13" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(109.184 44.161)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_1-14" data-name="Line 1" x1="59.723" y1="173.047" transform="translate(131.02 52.993)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M26.56,120.175h0L0,111V63l26.56,9.175Z" transform="translate(359 2268)" fill="url(#linear-gradient-3)"/>
+      <path id="Subtraction_9" data-name="Subtraction 9" d="M26.56,120.175h0L0,111V63l26.56,9.175Z" transform="translate(231 2222)" fill="url(#linear-gradient-3)"/>
+      <path id="Subtraction_12" data-name="Subtraction 12" d="M26.56,120.175h0L0,111V63l26.56,9.175Z" transform="translate(241 2263)" fill="url(#linear-gradient-3)"/>
+      <path id="Subtraction_4" data-name="Subtraction 4" d="M26.56,120.175h0L1.112,111.05.876,63.3,26.56,72.175Z" transform="translate(128 2279)" fill="url(#linear-gradient-3)"/>
+      <path id="Subtraction_6" data-name="Subtraction 6" d="M26.56,120.175h0L0,111V63l26.56,9.175Z" transform="translate(255 2325)" fill="url(#linear-gradient-3)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M26.56,70.524h0V48L5.941,55.123l.015-43.431L27.013-.028V70.484l-.452.04Z" transform="translate(412.56 2388.175) rotate(180)" fill="url(#linear-gradient-8)"/>
+      <path id="Subtraction_10" data-name="Subtraction 10" d="M26.56,70.524h0V48L5.941,55.123l.015-43.431L27.013-.028V70.484l-.452.04Z" transform="translate(284.56 2342.175) rotate(180)" fill="url(#linear-gradient-8)"/>
+      <path id="Subtraction_11" data-name="Subtraction 11" d="M26.56,70.524h0V48L5.941,55.123l.015-43.431L27.013-.028V70.484l-.452.04Z" transform="translate(294.56 2383.175) rotate(180)" fill="url(#linear-gradient-8)"/>
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M26.56,70.525h0V48L6.61,54.892l.042-43.461L27.013-.028V70.484l-.452.041Z" transform="translate(181.56 2399.175) rotate(180)" fill="url(#linear-gradient-8)"/>
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M26.56,70.524h0V48L5.941,55.123l.015-43.431L27.013-.028V70.484l-.452.04Z" transform="translate(308.56 2445.175) rotate(180)" fill="url(#linear-gradient-8)"/>
+    </g>
+  </g>
+</svg>

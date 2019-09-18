@@ -72,7 +72,7 @@
       <section id="about" class="about">
         <div class="container">
           <div class="row">
-            <div class="col-xl-8 col-lg-8 col-md-8 col-12">
+            <div class="col-xl-8 col-lg-8 col-md-8 col-12 img_height">
               <div class="image_block" id="imgBlock">
                 <img src="img/icons/Back.png" class="img-fluid image_person" alt="">
                 <img src="img/icons/MovingPart.png" class="img-fluid moving_person" id="movingAbout" alt="">
@@ -104,8 +104,8 @@
         <div class="container">
           <div class="header_block">
             <h1 class="header capability_header">CAPABILITIES</h1>
-            <img src="img/icons/CAPABILITIES.png" alt="" class="img-fluid header-img capability_header_img"
-              id="headerAbout">
+            <img src="img/icons/CAPABILITIES.png" alt="" id="capability_head"
+              class="img-fluid header-img capability_header_img" id="headerAbout">
           </div>
           <div class="row">
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
@@ -113,7 +113,7 @@
                 <h4 class="title">
                   1. Attendance
                 </h4>
-                <img src="img/icons/attendance.png" alt="">
+                <img src="img/icons/attendance.svg" class="img-fluid " alt="">
               </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
@@ -121,7 +121,7 @@
                 <h4 class="title">
                   2. Distraction level
                 </h4>
-                <img src="img/icons/head.png" alt="">
+                <img src="img/icons/head.svg" class="img-fluid " alt="" style="text-align: center">
               </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
@@ -129,7 +129,7 @@
                 <h4 class="title">
                   3. Emotion tracking
                 </h4>
-                <img src="img/icons/emotion.png" alt="">
+                <img src="img/icons/emotion.png" class="img-fluid " alt="">
               </div>
             </div>
           </div>
@@ -139,16 +139,21 @@
         <div class="container">
           <div class="row">
             <div class="col-xl-8 col-lg-8 col-md-8 col-12">
-              <div class="" style="margin-top: 190px">
-                <img src="img/icons/chart.png" class="img-fluid " alt="">
-                <img src="img/icons/sevices.png" class="img-fluid " alt="">
+              <div class="image_block_s" style="margin-top: 190px">
+                <img src="img/icons/Group121.png" class="img-fluid data_img " alt="">
+                <img src="img/icons/Rectangle.png" class="img-fluid  " id="rectangle" alt="">
+              </div>
+              <div class="person_block">
+                <div class="person_btn" id="person_btn">
+                  PERSON 1
+                </div>
               </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
               <div class="about-content" id="aboutContent">
                 <div class="header_block">
                   <h1 class="header">Service</h1>
-                  <img src="img/icons/SERVICE.png" alt="" class="img-fluid header-img">
+                  <img src="img/icons/SERVICE.png" alt="" id="sevicehead" class="img-fluid header-img">
                 </div>
                 <p class="right-info">
                   “At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum
@@ -166,8 +171,8 @@
         <div class="container">
           <div class="header_block">
             <h1 class="header how_it_works_header">How it works</h1>
-            <img src="img/icons/HOWITWORKS.png" alt="" class="img-fluid header-img how_it_works_header_img"
-              id="headerAbout">
+            <img src="img/icons/HOWITWORKS.png" alt="" id="how_it_works_head"
+              class="img-fluid header-img how_it_works_header_img" id="headerAbout">
           </div>
           <div class="row justify-content-center">
             <div class="col-xl-4 col-lg-4 col-md-4 col-12">
@@ -212,11 +217,11 @@
         <div class="container">
           <div class="header_block">
             <h1 class="header contact_header">Contact with us</h1>
-            <img src="img/icons/CONTACTWITHUS.png" alt="" class="img-fluid header-img contact_header_img"
+            <img src="img/icons/CONTACTWITHUS.png" alt="" id="contact_head" class="img-fluid header-img contact_header_img"
               id="headerAbout">
           </div>
           <div class="row justify-content-center">
-            <div class="col-xl-8 col-lg-10 col-md-10 col-12">
+            <div class="col-xl-6 col-lg-8 col-md-10 col-12">
               <form action="">
                 <div class="row">
                   <div class="form-group col-xl-6 col-lg-6 col-md-6">
@@ -232,12 +237,45 @@
                 <div class="form-group">
                   <input type="email" class="form-control shadow-none" placeholder="Mail">
                 </div>
+                <div class="form-group">
+                  <textarea type="textarea" class="form-control shadow-none textarea"
+                    placeholder="Write about your problem"></textarea>
+                </div>
               </form>
             </div>
           </div>
         </div>
       </section>
+      <section class="bg-footer">
+        <div class="layer">
+          <div class="container">
+            <div class="row">
+              <div class="col-xl-8 col-lg-8 col-md-8 col-12">
+                <div class="fb">
+                  <a class="navbar-brand" href="index.html">
+                    <img class="img_logo img-fluid" src="img/icons/logo.svg" alt="logo" />
+                  </a>
+                  <p class="footer_text">
+                    Использование материалов сайта Togri.uz разрешается в любом объеме с обязательным указанием активной
+                    ссылки на сайт в первом абзаце новости и названия сайта в виде "Togri.uz". Свидетельство: №1295 Дата
+                    выдачи: 10.06.2019 год. Учредитель: ООО «True Press Network» Руководитель: Н.Ибрагимов. Адрес
+                    редакции: 100017, город Ташкент, улица Шарафа Рашидова, д.16. Электронная почта: info@togri.uz. +998
+                    71 207 11 16.
+                  </p>
+                  <ul class="list-inline social_icons mt-2">
+                    <li class="list-inline-item"> <a href="#"><img src="img/icons/telegram.svg" alt=""></a></li>
+                    <li class="list-inline-item"> <a href="#"><img src="img/icons/instagram.svg" alt=""></a></li>
+                    <li class="list-inline-item"> <a href="#"><img src="img/icons/facebook.svg" alt=""></a></li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
+
   </div>
   <script src="js/scripts.min.js"></script>
   <script src="https://unpkg.com/scrollreveal@4"></script>
