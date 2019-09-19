@@ -21,12 +21,12 @@
       <img src="img/icons/arrow-right.svg" alt="arrow" width="17px">
     </div>
     <div class="list-unstyled components mt-5">
-      <a class="nav-item nav-link" href="#">ABOUT</a>
-      <a class="nav-item nav-link" href="#">CAPABILITIES</a>
-      <a class="nav-item nav-link" href="#">OUR SERVICE</a>
-      <a class="nav-item nav-link " href="#">HOW IT WORKS</a>
-      <a class="nav-item nav-link" href="#">CONTACT US</a>
-      <a class="nav-item nav-link" href="#">FIND US</a>
+      <a class="nav-item nav-link" href="#about">ABOUT</a>
+      <a class="nav-item nav-link" href="#capabilities">CAPABILITIES</a>
+      <a class="nav-item nav-link" href="#services">OUR SERVICE</a>
+      <a class="nav-item nav-link " href="#how_it_works">HOW IT WORKS</a>
+      <a class="nav-item nav-link" href="#contact">CONTACT US</a>
+      <a class="nav-item nav-link" href="#footer">FIND US</a>
     </div>
   </nav>
   <div class="container-fluid m-0 p-0 ">
@@ -37,9 +37,9 @@
             <nav class="navbar navbar-expand-lg">
               <div class="collapse navbar-collapse" id="nav-left">
                 <div class="navbar-nav nav">
-                  <a class="nav-item nav-link" href="#">ABOUT</a>
-                  <a class="nav-item nav-link" href="#">CAPABILITIES</a>
-                  <a class="nav-item nav-link" href="#">OUR SERVICE</a>
+                  <a class="nav-item nav-link" href="#about">ABOUT</a>
+                  <a class="nav-item nav-link" href="#capabilities">CAPABILITIES</a>
+                  <a class="nav-item nav-link" href="#services">OUR SERVICE</a>
                 </div>
               </div>
               <a class="navbar-brand mx-auto" href="index.html">
@@ -47,9 +47,9 @@
               </a>
               <div class="collapse navbar-collapse">
                 <div class="navbar-nav nav ml-auto">
-                  <a class="nav-item nav-link " href="#">HOW IT WORKS</a>
-                  <a class="nav-item nav-link" href="#">CONTACT US</a>
-                  <a class="nav-item nav-link" href="#">FIND US</a>
+                  <a class="nav-item nav-link " href="#how_it_works">HOW IT WORKS</a>
+                  <a class="nav-item nav-link" href="#contact">CONTACT US</a>
+                  <a class="nav-item nav-link" href="#footer">FIND US</a>
                 </div>
               </div>
               <button class="navbar-toggler" id="sidebarCollapse" type="button" data-toggle="collapse"
@@ -72,13 +72,13 @@
       <section id="about" class="about">
         <div class="container">
           <div class="row">
-            <div class="col-xl-8 col-lg-8 col-md-8 col-12 img_height">
+            <div class="col-xl-8 col-lg-8 col-md-7 col-12 img_height">
               <div class="image_block" id="imgBlock">
                 <img src="img/icons/Back.png" class="img-fluid image_person" alt="">
                 <img src="img/icons/MovingPart.png" class="img-fluid moving_person" id="movingAbout" alt="">
               </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-4 col-12">
+            <div class="col-xl-4 col-lg-4 col-md-5 col-12">
               <div class="about-content" id="aboutContent">
                 <div class="header_block">
                   <h1 class="header">About</h1>
@@ -95,6 +95,12 @@
                         class="angry">ANGRY</span></p>
                   </div>
                 </p>
+              </div>
+            </div>
+            <div class="col-xl-8 col-lg-8 col-md-8 col-12 media_about">
+              <div class="image_block" id="imgBlock">
+                <img src="img/icons/Back.png" class="img-fluid image_person" alt="">
+                <img src="img/icons/MovingPart.png" class="img-fluid moving_person" id="movingAbout" alt="">
               </div>
             </div>
           </div>
@@ -138,7 +144,7 @@
       <section id="services" class="services">
         <div class="container">
           <div class="row">
-            <div class="col-xl-8 col-lg-8 col-md-8 col-12">
+            <div class="col-xl-8 col-lg-8 col-md-7 col-12 d_none_b">
               <div class="image_block_s">
                 <img src="img/icons/Group121.png" class="img-fluid data_img " alt="">
                 <img src="img/icons/Rectangle.png" class="img-fluid  " id="rectangle" alt="">
@@ -149,7 +155,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-4 col-12">
+            <div class="col-xl-4 col-lg-4 col-md-5 col-12">
               <div class="about-content" id="aboutContent">
                 <div class="header_block">
                   <h1 class="header">Service</h1>
@@ -162,6 +168,17 @@
                   fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis
                   est eligendi optio, cumque
                 </p>
+              </div>
+            </div>
+            <div class="col-xl-8 col-lg-8 col-md-8 col-12 media_services">
+              <div class="image_block_s">
+                <img src="img/icons/Group121.png" class="img-fluid data_img " alt="">
+                <img src="img/icons/Rectangle.png" class="img-fluid  " id="rectangle" alt="">
+              </div>
+              <div class="person_block">
+                <div class="person_btn" id="person_btn">
+                  PERSON 1
+                </div>
               </div>
             </div>
           </div>
@@ -258,7 +275,7 @@
           </div>
         </div>
       </section>
-      <section class="bg-footer">
+      <section class="bg-footer" id="footer">
         <div class="layer">
           <div class="container">
             <div class="row">

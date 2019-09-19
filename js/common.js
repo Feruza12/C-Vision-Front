@@ -1,7 +1,7 @@
 $(function () {
 
   $(document).ready(function () {
-    $('#dismiss, .overlay').on('click', function () {
+    $('#dismiss, .nav-link').on('click', function () {
       $('#sidebar').removeClass('active');
       $('.overlay').removeClass('active');
     });
@@ -13,7 +13,15 @@ $(function () {
       $('a[aria-expanded=true]').attr('aria-expanded', 'false');
     });
   });
-
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash; 
+         $('html, body').animate({
+        scrollTop: $(hash).offset().top - 80
+      }, 'slow');
+    } 
+  });
 });
 window.onload = function () {
 
